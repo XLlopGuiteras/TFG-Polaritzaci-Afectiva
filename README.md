@@ -1,4 +1,4 @@
-# TFG-Polaritzaci-Afectiva
+# TFG-Polarització-Afectiva
 Aquí trobareu les dades i codis (scripts) d'Rstudio amb els quals vaig realitzar l'anàlisis quantitatiu del TFG; 
 
 Els anàlisis es troben separats en dos arxius. Un correspon a la realització del model binomial de vot segons dimensió de conflicte polític i l'altre a la resta d'anàlisis realitzats. 
