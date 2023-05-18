@@ -4,6 +4,7 @@ descr: anàlisis descriptius i freqüències.
 ggplot2: elaboració i edició de gràfics i els seus elements.
 ggeffects: elaboració de prediccions basades en models estadístics.
 jtools: elaboració de diagrames sobre coeficients dels models estadístics.
+haven: obrir arxius en format SPSS (.sav). 
 nnet: elaboració de models logístics multinomials.
 Sjplot:elaboració de taules resum html dels models estadístics.
 model_summary: elaboració de taules resum dels models estadístics.
